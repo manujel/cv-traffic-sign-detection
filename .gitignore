@@ -1,0 +1,21 @@
+# Python / venv
+**/.venv/
+**/__pycache__/
+**/.ipynb_checkpoints/
+
+# YOLO / Ultralytics runs + caches
+runs/
+**/runs/
+**/*.pt
+
+# Datasets / raw data
+FullIJCNN2013/
+cv_traffic_signs/data/yolo/gtsdb/images/
+cv_traffic_signs/data/yolo/gtsdb/labels/
+
+# Demo Videos
+**/*.mp4
+data/demo/
+
+# OS
+.DS_Store
