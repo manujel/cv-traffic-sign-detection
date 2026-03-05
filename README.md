@@ -1,4 +1,4 @@
-README = """
+README
 # Traffic Sign Detection using YOLOv8
 
 This project implements an object detection system for detecting traffic signs in images and real-world driving videos using the YOLOv8 deep learning framework.
